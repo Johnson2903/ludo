@@ -1,0 +1,27 @@
+ body {
+background:  blue;
+ }
+
+h1 {
+color: white;
+}
+
+table {
+background: white;
+}
+
+.yel {
+	background-color: #FBC412;
+}
+
+.blue {
+	background-color: #136A9F;
+}
+
+.red {
+	background-color: #E5233D;
+}
+
+.green {
+	background: #59BA47;
+}
